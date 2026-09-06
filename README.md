@@ -1,4 +1,4 @@
-![alt text goes here](https://github.com/alexwolf00/learn-cicd-typescript/actions/workflows/ci.yml/badge.svg)
+![ci workflow](https://github.com/alexwolf00/learn-cicd-typescript/actions/workflows/ci.yml/badge.svg) ![cd workflow](https://github.com/alexwolf00/learn-cicd-typescript/actions/workflows/cd.yml/badge.svg)
 
 # Learn CI/CD (Notely)
 
